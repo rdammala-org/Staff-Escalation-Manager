@@ -4,7 +4,7 @@ Personal portfolio site for Rajesh Dammala — Staff Escalation Manager profile 
 
 ## Live Site
 
-[https://rdammala.github.io/Staff-Escalation-Manager/](https://rdammala.github.io/Staff-Escalation-Manager/)
+[https://rdammala-org.github.io/Staff-Escalation-Manager/](https://rdammala-org.github.io/Staff-Escalation-Manager/)
 
 ## Tech Stack
 
